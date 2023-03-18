@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Bbm384</string>
+    <string name="app_name">BILSIS</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
